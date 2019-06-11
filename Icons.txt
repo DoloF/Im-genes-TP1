@@ -1,0 +1,57 @@
+Icons
+
+About us
+Shopping bag: <i class="fas fa-shopping-bag"></i>
+Photo: <i class="far fa-image"></i>
+Chart-bar: <i class="far fa-chart-bar"></i>
+
++ 3 imágenes .svg about-
+
+Services
+
+Gráfico circular: <i class="fas fa-chart-pie"></i>
+Book: <i class="fas fa-book"></i>
+Paper: <i class="far fa-sticky-note"></i>
+Speedometer: <i class="fas fa-tachometer-alt"></i>
+World: <i class="fas fa-tachometer-alt"></i>
+Clock: <i class="far fa-clock"></i>
+
+Why choose us?
+
+Diamond: <i class="far fa-gem"></i>
+Language: <i class="fas fa-language"></i>
+Object group: <i class="far fa-object-group"></i>
+
+Our portfolio
+
+Preview: <i class="fas fa-eye"></i>
+More details: <i class="fas fa-external-link-alt"></i>
+
+Team
+
+Twitter: <i class="fab fa-twitter"></i>
+Facebook: <i class="fab fa-facebook-f"></i>
+Google+: <i class="fab fa-google-plus-g"></i>
+LinkedIn: <i class="fab fa-linkedin-in"></i>
+
+Our clients
+
+Imágenes en .png client-#
+
+Contact Us
+
+Mapa iframe: https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621
+Location: <i class="fas fa-map-marker-alt"></i>
+Email: <i class="far fa-envelope"></i>
+Telephone: <i class="fas fa-phone-alt"></i>
+
+Footer
+
+Twitter: <i class="fab fa-twitter"></i>
+Facebook: <i class="fab fa-facebook-f"></i>
+Google+: <i class="fab fa-google-plus-g"></i>
+LinkedIn: <i class="fab fa-linkedin-in"></i>
+Instagram: <i class="fab fa-instagram"></i>
+
+
+ 
